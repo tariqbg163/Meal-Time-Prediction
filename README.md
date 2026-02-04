@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Time Prediction Using Machine Learning Pipeline
+# 🍽️ Meal Time Prediction Using Machine Learning Pipeline
 ## 📌 Project Overview
 
 This project predicts whether a restaurant customer visited during Lunch or Dinner time based on dining attributes such as bill amount, tip, group size, day, smoker status, and gender.
